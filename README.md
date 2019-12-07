@@ -1,4 +1,4 @@
-# Elaborazione-di-segnale-EEG-e-metodi-di-Machine-Learning-per-la-Motor-Imagery-Detection
+# Elaborazione di segnale EEG e metodi di Machine Learning per la Motor Imagery Detection
 
 Il XXI secolo sarà il secolo del cervello, queste erano le parole alcuni anni fa di Steven Rose, un famoso biologo inglese esperto di neurobiologia. Nel 2013 infatti l’Unione Europea stanziò dei fondi per lo “Human Brain Project”, un progetto di ricerca scientifica e industriale in grado di far avanzare la scienza nei campi della neuroscienza, computazione informatica e medicina cerebrale. Pochi mesi dopo il presidente statunitense Barack Obama lanciò il progetto “Brain Initiative” il cui scopo è trovare delle tecnologie emergenti per capire il funzionamento cognitivo del cervello.
 Sotto questo scenario inizia a prendere forma la Brain Computer Interface (BCI), un ramo delle neuroscienze e dell’informatica il cui compito è creare un’interfaccia comunicativa tra il cervello e una macchina. Negli anni sono diventati infatti numerosissimi i progetti di BCI, tra cui l’ultimo più noto “Neuralink” presentato nel luglio 2019 da Elon Musk.
