@@ -43,3 +43,5 @@ Su ogni segnale è stata successivamente effettuata una clusterizzazione (KMeans
  Il sistema sviluppato risulta task specific e user specific. Quest'ultimo è un risultato atteso poiché in generale nelle BCI non si può trovare un algoritmo adatto per ogni soggetto. L'ideale sarebbe trovare un algoritmo che vada bene sulla maggior parte o tarare i parametri per ogni soggetto.
  Analizzando nel complesso tutte le prove si è inoltre notato che per il macro-task caratterizzato dai run 5,9,13 si ha un’accuratezza media più elevata rispetto agli altri tre macro-task. Attualmente non possiamo dare una spiegazione a ciò.
 
+
+Code work in progress - final version will come soon
